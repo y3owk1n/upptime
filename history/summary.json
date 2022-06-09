@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1336,
-    "timeDay": 1336,
-    "timeWeek": 1336,
-    "timeMonth": 1336,
-    "timeYear": 1336,
+    "time": 1339,
+    "timeDay": 1339,
+    "timeWeek": 1339,
+    "timeMonth": 1339,
+    "timeYear": 1339,
     "dailyMinutesDown": {}
   },
   {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",
-    "slug": "test-broken-site",
+    "name": "Test Broken Site 3",
+    "url": "https://thissitedoesnotexist3.koj.co",
+    "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist3.koj.co",
+    "slug": "test-broken-site-3",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "13.85%",
+    "uptimeDay": "13.85%",
+    "uptimeWeek": "13.85%",
+    "uptimeMonth": "13.85%",
+    "uptimeYear": "13.85%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-09": 13
+      "2022-06-09": 0
     }
   }
 ]
