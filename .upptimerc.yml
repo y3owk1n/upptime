@@ -4,9 +4,19 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Traworld
-    url: https://www.traworld.com
-  - name: Test Broken Site 3
-    url: https://thissitedoesnotexist3.koj.co
+    url: $TRAWORLD_URL
+  - name: Herlia
+    url: $HERLIA_URL
+  - name: Main MDA
+    url: $MAINMDA_URL
+  - name: Student MDA
+    url: $STUDENTMDA_URL
+  - name: Admin MDA
+    url: $ADMINMDA_URL
+  - name: Merchant MDA
+    url: $MERCHANTMDA_URL
+  - name: Instructor MDA
+    url: $INSTRUCTORMDA_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
