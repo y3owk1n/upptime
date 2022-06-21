@@ -4,27 +4,29 @@
     "url": "$TRAWORLD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traworld",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 1252,
-    "timeWeek": 1353,
-    "timeMonth": 1369,
-    "timeYear": 1369,
-    "dailyMinutesDown": {}
+    "time": 2080,
+    "timeDay": 8424,
+    "timeWeek": 3133,
+    "timeMonth": 2080,
+    "timeYear": 2080,
+    "dailyMinutesDown": {
+      "2022-06-21": 1
+    }
   },
   {
     "name": "Herlia",
     "url": "$HERLIA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "herlia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1240,
     "timeMonth": 1236,
     "timeYear": 1236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-21": 0
+    }
   },
   {
     "name": "Main MDA",
