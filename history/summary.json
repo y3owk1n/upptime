@@ -59,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "student-mda",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 155,
     "timeWeek": 207,
     "timeMonth": 272,
     "timeYear": 272,
-    "dailyMinutesDown": {
-      "2022-06-22": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin MDA",
@@ -79,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "admin-mda",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 220,
     "timeDay": 142,
     "timeWeek": 211,
     "timeMonth": 220,
     "timeYear": 220,
-    "dailyMinutesDown": {
-      "2022-06-22": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Merchant MDA",
@@ -99,19 +95,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "merchant-mda",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 256,
     "timeDay": 143,
     "timeWeek": 205,
     "timeMonth": 256,
     "timeYear": 256,
-    "dailyMinutesDown": {
-      "2022-06-22": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Instructor MDA",
@@ -119,18 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "instructor-mda",
     "status": "up",
-    "uptime": "99.92%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 211,
     "timeDay": 151,
     "timeWeek": 192,
     "timeMonth": 211,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2022-06-22": 15
-    }
+    "dailyMinutesDown": {}
   }
 ]
