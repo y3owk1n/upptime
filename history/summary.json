@@ -4,18 +4,20 @@
     "url": "$TRAWORLD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traworld",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1875,
-    "timeDay": 1339,
-    "timeWeek": 2723,
-    "timeMonth": 1875,
-    "timeYear": 1875,
-    "dailyMinutesDown": {}
+    "time": 1829,
+    "timeDay": 974,
+    "timeWeek": 2531,
+    "timeMonth": 1829,
+    "timeYear": 1829,
+    "dailyMinutesDown": {
+      "2022-06-26": 0
+    }
   },
   {
     "name": "Herlia",
