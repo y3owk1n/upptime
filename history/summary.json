@@ -4,19 +4,19 @@
     "url": "$TRAWORLD_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "traworld",
-    "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "84.12%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
-    "time": 1513,
-    "timeDay": 695,
-    "timeWeek": 926,
-    "timeMonth": 1513,
-    "timeYear": 1513,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "82.89%",
+    "uptimeWeek": "97.56%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 1509,
+    "timeDay": 753,
+    "timeWeek": 948,
+    "timeMonth": 1509,
+    "timeYear": 1509,
     "dailyMinutesDown": {
-      "2022-06-30": 228
+      "2022-06-30": 246
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$HERLIA_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "herlia",
-    "status": "down",
-    "uptime": "99.25%",
-    "uptimeDay": "84.08%",
-    "uptimeWeek": "97.73%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.25%",
-    "time": 4151,
-    "timeDay": 4825,
-    "timeWeek": 7034,
-    "timeMonth": 4151,
-    "timeYear": 4151,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "82.84%",
+    "uptimeWeek": "97.55%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 4266,
+    "timeDay": 5108,
+    "timeWeek": 7087,
+    "timeMonth": 4266,
+    "timeYear": 4266,
     "dailyMinutesDown": {
-      "2022-06-30": 229
+      "2022-06-30": 247
     }
   },
   {
