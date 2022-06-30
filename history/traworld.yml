@@ -1,7 +1,7 @@
 url: $TRAWORLD_URL
-status: up
-code: 200
-responseTime: 1404
-lastUpdated: 2022-06-30T13:06:05.851Z
+status: down
+code: 403
+responseTime: 64
+lastUpdated: 2022-06-30T13:47:00.985Z
 startTime: Thu Jun 09 2022 11:55:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
